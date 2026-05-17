@@ -40,4 +40,5 @@ This project is based on Machine Learning for spam message detection.
 * Around **97% – 98%** accuracy on test data
 
 ## Author
-Muhammad Junaid Munir : F23BSEEN1E02096 6th (2E)
+Muhammad Junaid Munir : F23BSEEN1E02096    
+Semester : 6th (2E)
